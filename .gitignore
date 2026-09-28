@@ -220,3 +220,6 @@ artifacts/
 
 # Local secrets (never commit or upload)
 .env.secrets
+
+# Local coding-agent tooling
+.claude/
