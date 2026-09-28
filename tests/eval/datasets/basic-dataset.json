@@ -1,0 +1,7 @@
+{
+  "eval_cases": [
+    {"eval_case_id": "normal_day", "prompt": {"role": "user", "parts": [{"text": "Build the digest fixture:normal-day"}]}},
+    {"eval_case_id": "big_launch_dedup", "prompt": {"role": "user", "parts": [{"text": "Build the digest fixture:big-launch"}]}},
+    {"eval_case_id": "slow_day", "prompt": {"role": "user", "parts": [{"text": "Build the digest fixture:slow-day"}]}}
+  ]
+}

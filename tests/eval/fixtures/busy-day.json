@@ -1,0 +1,339 @@
+{
+ "date_label": "Friday, September 25, 2026",
+ "feed_items": [
+  {
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI News",
+   "published": "2026-09-23 16:00 UTC",
+   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+  },
+  {
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI News",
+   "published": "2026-09-23 13:00 UTC",
+   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+   "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "OpenAI News",
+   "published": "2026-09-23 12:00 UTC",
+   "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+  },
+  {
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI News",
+   "published": "2026-09-23 12:00 UTC",
+   "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+  },
+  {
+   "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI News",
+   "published": "2026-09-23 12:00 UTC",
+   "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+  },
+  {
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Anthropic News",
+   "published": "2026-09-23 00:00 UTC",
+   "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+  },
+  {
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+   "source": "Google AI Blog",
+   "published": "2026-09-23 18:00 UTC",
+   "summary": "Google Beam promotional animation"
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "published": "2026-09-24 16:20 UTC",
+   "summary": ""
+  },
+  {
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "published": "2026-09-23 16:00 UTC",
+   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+  },
+  {
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "published": "2026-09-23 15:25 UTC",
+   "summary": ""
+  },
+  {
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-24 14:08 UTC",
+   "summary": ""
+  },
+  {
+   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-23 18:41 UTC",
+   "summary": ""
+  },
+  {
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-22 00:00 UTC",
+   "summary": ""
+  },
+  {
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-22 00:00 UTC",
+   "summary": ""
+  },
+  {
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-22 00:00 UTC",
+   "summary": ""
+  },
+  {
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "source": "Hugging Face Blog",
+   "published": "2026-09-21 13:44 UTC",
+   "summary": ""
+  },
+  {
+   "title": "One Month Without AI",
+   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+   "source": "Hacker News",
+   "published": "2026-09-26 10:08 UTC",
+   "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 225"
+  },
+  {
+   "title": "An agent used DNS to reach an external chatbot",
+   "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+   "source": "Hacker News",
+   "published": "2026-09-26 04:14 UTC",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ Comments URL: https://news.ycombinator.com/item?id=49853137 Points: 166 # Comments: 159"
+  },
+  {
+   "title": "Too AI; Didn't Read",
+   "url": "https://www.tai-dr.com/",
+   "source": "Hacker News",
+   "published": "2026-09-25 20:37 UTC",
+   "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 112"
+  },
+  {
+   "title": "Superhuman Go",
+   "url": "https://www.producthunt.com/products/superhuman-go",
+   "source": "Product Hunt",
+   "published": "2026-09-22 06:48 UTC",
+   "summary": "The AI assistant that works where you do Discussion | Link"
+  },
+  {
+   "title": "GPT-6 Sol & Luna",
+   "url": "https://www.producthunt.com/products/openai",
+   "source": "Product Hunt",
+   "published": "2026-09-22 21:59 UTC",
+   "summary": "Frontier AI intelligence, now at half the price Discussion | Link"
+  },
+  {
+   "title": "Lisen",
+   "url": "https://www.producthunt.com/products/lisen",
+   "source": "Product Hunt",
+   "published": "2026-09-23 06:59 UTC",
+   "summary": "Free Read Aloud with Cartesia Voices Discussion | Link"
+  },
+  {
+   "title": "Hemory",
+   "url": "https://www.producthunt.com/products/hemory",
+   "source": "Product Hunt",
+   "published": "2026-09-22 15:16 UTC",
+   "summary": "Keep listening. Searchable memory for your AI agents. Discussion | Link"
+  },
+  {
+   "title": "GoodSocials",
+   "url": "https://www.producthunt.com/products/goodsocials",
+   "source": "Product Hunt",
+   "published": "2026-09-25 10:43 UTC",
+   "summary": "AI social media manager for LinkedIn. Only authentic content Discussion | Link"
+  },
+  {
+   "title": "Bleetz Network",
+   "url": "https://www.producthunt.com/products/bleetz-network",
+   "source": "Product Hunt",
+   "published": "2026-09-23 18:37 UTC",
+   "summary": "AI agent-to-agent VC fundraising & scouting network Discussion | Link"
+  },
+  {
+   "title": "Quoting John Gruber",
+   "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+   "source": "Simon Willison",
+   "published": "2026-09-25 17:22 UTC",
+   "summary": "Muse is getting a lot of attention \u2014 including mine \u2014 because it\u2019s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta\u2019s cloud) and because it\u2019s packaged in an easy-to-install easy-to-use way. It\u2019s literally presented as a cute mascot . It\u2019s the first consumer-accessible agentic AI system, and Meta\u2026"
+  },
+  {
+   "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+   "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+   "source": "Simon Willison",
+   "published": "2026-09-25 02:07 UTC",
+   "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography , wildlife"
+  },
+  {
+   "title": "Note on 24th September 2026",
+   "url": "https://simonwillison.net/2026/Sep/24/harder/",
+   "source": "Simon Willison",
+   "published": "2026-09-24 23:31 UTC",
+   "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms"
+  },
+  {
+   "title": "commit-rewriter 0.2",
+   "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+   "source": "Simon Willison",
+   "published": "2026-09-24 20:06 UTC",
+   "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git"
+  },
+  {
+   "title": "datasette 1.0a41",
+   "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+   "source": "Simon Willison",
+   "published": "2026-09-24 19:15 UTC",
+   "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry"
+  },
+  {
+   "title": "Meta makes the Muse filesystem even more accessible",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+   "source": "The Verge AI",
+   "published": "2026-09-25 16:49 UTC",
+   "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [\u2026]"
+  },
+  {
+   "title": "Sony and UMG are suing Suno again",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+   "source": "The Verge AI",
+   "published": "2026-09-25 15:51 UTC",
+   "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [\u2026]"
+  },
+  {
+   "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+   "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-22 23:12 UTC",
+   "summary": "Watch now (39 mins) | \ud83c\udf99\ufe0f I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench"
+  },
+  {
+   "title": "I left Claude for months. Opus 5.5 is why I'm back",
+   "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-22 19:06 UTC",
+   "summary": "Watch now (25 mins) | \ud83c\udf99\ufe0f I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks"
+  },
+  {
+   "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+   "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-22 12:45 UTC",
+   "summary": "Why you should never skip error discovery"
+  },
+  {
+   "title": "\ud83c\udf99\ufe0f How I AI: Meta\u2019s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+   "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-21 15:03 UTC",
+   "summary": "Your weekly listens from How I AI, part of the Lenny\u2019s Podcast Network"
+  },
+  {
+   "title": "Foundries vs Navigators: Lowering the Cost of Science",
+   "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+   "source": "Latent Space",
+   "published": "2026-09-24 15:03 UTC",
+   "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously."
+  },
+  {
+   "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+   "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+   "source": "Latent Space",
+   "published": "2026-09-24 08:12 UTC",
+   "summary": "Team Zuck is absolutely on fire."
+  },
+  {
+   "title": "\ud83d\udd2cBio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+   "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+   "source": "Latent Space",
+   "published": "2026-09-23 13:27 UTC",
+   "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself."
+  },
+  {
+   "title": "Back to Claude",
+   "url": "https://www.bensbites.com/p/back-to-claude",
+   "source": "Ben's Bites",
+   "published": "2026-09-24 13:04 UTC",
+   "summary": "GPT-6 Sol and Luna got cheaper"
+  },
+  {
+   "title": "What can you build with Jev",
+   "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+   "source": "Ben's Bites",
+   "published": "2026-09-22 13:01 UTC",
+   "summary": "Muse is off to a good start"
+  },
+  {
+   "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+   "url": "https://tldr.takara.ai/p/2609.24971",
+   "source": "HF Daily Papers",
+   "published": "2026-09-21 17:54 UTC",
+   "summary": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, where the question itself signals that some fact must be retrieved, and often which one. Moreover, benchmarks rarely require anything beyond\u2026"
+  },
+  {
+   "title": "ZoomDiff: A High-Fidelity Diffusion Model for Dual-Camera Smooth Zooming",
+   "url": "https://tldr.takara.ai/p/2609.28083",
+   "source": "HF Daily Papers",
+   "published": "2026-09-23 13:22 UTC",
+   "summary": "Digital zoom transitions between dual cameras often exhibit conspicuous discontinuities in geometric structure and chromatic consistency, degrading the user experience. While recent dual-camera smooth zoom (DCSZ) methods attempt to mitigate this by fine-tuning frame interpolation (FI) models on DCSZ data, they struggle with the large cross-view\u2026"
+  },
+  {
+   "title": "Testing-Driven Reliability Audit of Trajectory-Based Early Outcome Prediction for LLM Agents: Target-Specific Calibration Transfer Persists Within a Single Benchmark",
+   "url": "https://tldr.takara.ai/p/2609.25647",
+   "source": "HF Daily Papers",
+   "published": "2026-09-22 03:57 UTC",
+   "summary": "Predicting early outcomes based on trajectory can decrease the expenses associated with agent evaluation by terminating a run once the outcome becomes sufficiently predictable, assuming that the predictor's confidence is properly calibrated. Calibration is at risk when a predictor is applied to an agent on which it was never trained, but it is\u2026"
+  },
+  {
+   "title": "Reinforcement Learning under State and Outcome Uncertainty: A Foundational Distributional Perspective",
+   "url": "https://tldr.takara.ai/p/2609.24103",
+   "source": "HF Daily Papers",
+   "published": "2026-09-21 04:44 UTC",
+   "summary": "In many real-world planning tasks, agents must tackle uncertainty about the environment's state and variability in the outcomes of any chosen policy. We address both forms of uncertainty as a first step toward safer algorithms in partially observable settings. Specifically, we extend Distributional Reinforcement Learning (DistRL)-which models the\u2026"
+  },
+  {
+   "title": "Protocol before progress: leakage-aware evaluation of AIS trajectory prediction",
+   "url": "https://tldr.takara.ai/p/2609.25827",
+   "source": "HF Daily Papers",
+   "published": "2026-09-22 07:54 UTC",
+   "summary": "Reported gains in vessel-trajectory prediction from Automatic Identification System (AIS) data are credited to new architectures, but the evaluation protocol is rarely measured as a source of error reduction. We build a leakage-aware protocol with vessel-, time- and region-disjoint splits and apply it to two corpora with different traffic: 31\u2026"
+  },
+  {
+   "title": "West-WRF AI 2-km: High-Resolution Prediction of Integrated Vapor Transport and Precipitation",
+   "url": "https://tldr.takara.ai/p/2609.25512",
+   "source": "HF Daily Papers",
+   "published": "2026-09-22 00:14 UTC",
+   "summary": "We introduce a stretched-grid artificial intelligence (AI) weather forecasting model with 2-km resolution over the western United States and part of the Northeast Pacific and approximately 31-km resolution elsewhere globally. Forecasting over the western U.S. is challenging because complex topography and atmospheric rivers (ARs) strongly\u2026"
+  }
+ ],
+ "failed_feeds": [],
+ "expect": {
+  "min_items": 8,
+  "max_items": 12
+ }
+}

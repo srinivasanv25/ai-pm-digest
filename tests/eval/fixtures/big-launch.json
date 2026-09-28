@@ -1,0 +1,91 @@
+{
+ "date_label": "Thursday, October 1, 2026",
+ "feed_items": [
+  {
+   "title": "Introducing Aurora 2",
+   "url": "https://nimbuslabs.example/news/aurora-2",
+   "source": "Nimbus Labs News",
+   "published": "2026-10-01 16:00 UTC",
+   "summary": "Aurora 2 is our new flagship model: 2x faster than Aurora 1, 60% cheaper, 1M-token context, native tool calling and a new batch API. Available today in the API and in Nimbus Studio."
+  },
+  {
+   "title": "Nimbus Labs launches Aurora 2, its fastest model yet",
+   "url": "https://www.theverge.example/ai/aurora-2-launch",
+   "source": "The Verge AI",
+   "published": "2026-10-01 18:00 UTC",
+   "summary": "Nimbus Labs released Aurora 2 today, claiming top scores on coding benchmarks and a price cut of 60% versus Aurora 1."
+  },
+  {
+   "title": "Nimbus Labs' Aurora 2 undercuts rivals on price",
+   "url": "https://techcrunch.example/2026/10/01/nimbus-aurora-2",
+   "source": "TechCrunch AI",
+   "published": "2026-10-01 18:00 UTC",
+   "summary": "Aurora 2 is available via API at $0.40 per million input tokens, with a 1M-token context window."
+  },
+  {
+   "title": "Aurora 2 (nimbuslabs.example)",
+   "url": "https://news.ycombinator.example/item?id=1",
+   "source": "Hacker News",
+   "published": "2026-10-01 18:00 UTC",
+   "summary": "Discussion thread: 812 points. Users report strong results on agentic coding tasks."
+  },
+  {
+   "title": "First impressions of Aurora 2",
+   "url": "https://simonwillison.example/2026/Oct/1/aurora-2/",
+   "source": "Simon Willison",
+   "published": "2026-10-01 18:00 UTC",
+   "summary": "I ran Aurora 2 through my usual pelican-on-a-bicycle test and a few tool-calling experiments. Notes on pricing and the new batch API."
+  },
+  {
+   "title": "[AINews] Aurora 2 day",
+   "url": "https://latent.space.example/p/aurora-2",
+   "source": "Latent Space",
+   "published": "2026-10-01 18:00 UTC",
+   "summary": "Everything announced in the Aurora 2 launch, plus community reactions and benchmark caveats."
+  },
+  {
+   "title": "Tessellate ships open-source eval harness for agent workflows",
+   "url": "https://tessellate.example/blog/agent-evals",
+   "source": "Hugging Face Blog",
+   "published": "2026-10-01 12:00 UTC",
+   "summary": "Tessellate released an Apache-2.0 harness to replay and score multi-step agent traces, with built-in LLM-judge rubrics and CI integration."
+  },
+  {
+   "title": "How Loomly cut support tickets 40% with an AI triage agent",
+   "url": "https://lennys.example/p/loomly-ai-triage",
+   "source": "Lenny's Newsletter",
+   "published": "2026-10-01 13:00 UTC",
+   "summary": "Loomly's PM walks through scoping an AI triage agent, the eval set they built first, and why they launched to 5% of traffic before expanding."
+  },
+  {
+   "title": "Quillpad raises $45M Series B for AI note-taking",
+   "url": "https://techcrunch.example/2026/10/01/quillpad-series-b",
+   "source": "TechCrunch AI",
+   "published": "2026-10-01 14:00 UTC",
+   "summary": "Quillpad, an AI note-taking app, raised a $45M Series B led by a growth fund."
+  },
+  {
+   "title": "Speculative decoding without a draft model",
+   "url": "https://arxiv.example/abs/2610.00001",
+   "source": "HF Daily Papers",
+   "published": "2026-10-01 09:00 UTC",
+   "summary": "The paper reuses the model's own early layers as a draft, cutting latency 1.8x with no quality loss on standard benchmarks."
+  }
+ ],
+ "failed_feeds": [],
+ "expect": {
+  "min_items": 4,
+  "max_items": 12,
+  "must_include_urls": [
+   "https://nimbuslabs.example/news/aurora-2"
+  ],
+  "must_not_include_urls": [
+   "https://www.theverge.example/ai/aurora-2-launch",
+   "https://techcrunch.example/2026/10/01/nimbus-aurora-2",
+   "https://news.ycombinator.example/item?id=1",
+   "https://simonwillison.example/2026/Oct/1/aurora-2/",
+   "https://latent.space.example/p/aurora-2"
+  ],
+  "note": "The Aurora 2 launch must appear once, citing the lab's own post; the 5 press copies must not appear as separate items."
+ }
+}

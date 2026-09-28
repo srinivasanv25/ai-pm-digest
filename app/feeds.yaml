@@ -1,0 +1,28 @@
+# Sources for the daily digest. Edit freely: add, remove, or change windows.
+#   name:           shown in the email as the item's source
+#   url:            RSS or Atom feed
+#   max_age_hours:  how far back to look (labs post less often, so they get longer)
+#   max_items:      cap per feed so one noisy source can't flood the editor
+
+feeds:
+  # Labs & model releases
+  - {name: OpenAI News, url: "https://openai.com/news/rss.xml", max_age_hours: 72, max_items: 8}
+  - {name: Anthropic News, url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml", max_age_hours: 72, max_items: 6}
+  - {name: Google AI Blog, url: "https://blog.google/technology/ai/rss/", max_age_hours: 72, max_items: 6}
+  - {name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", max_age_hours: 72, max_items: 6}
+  - {name: Hugging Face Blog, url: "https://huggingface.co/blog/feed.xml", max_age_hours: 72, max_items: 6}
+
+  # Builder news & launches
+  - {name: Hacker News, url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini+OR+agent&points=100", max_age_hours: 36, max_items: 15}
+  - {name: Product Hunt, url: "https://www.producthunt.com/feed?category=artificial-intelligence", max_age_hours: 36, max_items: 12}
+  - {name: Simon Willison, url: "https://simonwillison.net/atom/everything/", max_age_hours: 36, max_items: 8}
+  - {name: The Verge AI, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", max_age_hours: 36, max_items: 10}
+  - {name: TechCrunch AI, url: "https://techcrunch.com/category/artificial-intelligence/feed/", max_age_hours: 36, max_items: 12}
+
+  # Product & strategy
+  - {name: Lenny's Newsletter, url: "https://www.lennysnewsletter.com/feed", max_age_hours: 72, max_items: 4}
+  - {name: Latent Space, url: "https://www.latent.space/feed", max_age_hours: 72, max_items: 4}
+  - {name: Ben's Bites, url: "https://www.bensbites.com/feed", max_age_hours: 72, max_items: 4}
+
+  # Research
+  - {name: HF Daily Papers, url: "https://papers.takara.ai/api/feed", max_age_hours: 48, max_items: 12}

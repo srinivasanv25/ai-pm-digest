@@ -1,0 +1,157 @@
+{
+ "date_label": "Sunday, September 27, 2026",
+ "feed_items": [
+  {
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "source": "OpenAI News",
+   "published": "2026-09-25 19:00 UTC",
+   "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+   "title": "There are no \"rogue\" AI agents",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "source": "Hacker News",
+   "published": "2026-09-27 16:19 UTC",
+   "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 324 # Comments: 240"
+  },
+  {
+   "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+   "url": "https://arxiv.org/abs/2609.25021",
+   "source": "Hacker News",
+   "published": "2026-09-27 10:26 UTC",
+   "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 100 # Comments: 100"
+  },
+  {
+   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+   "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+   "source": "Hacker News",
+   "published": "2026-09-26 15:56 UTC",
+   "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 174 # Comments: 45"
+  },
+  {
+   "title": "K\u0101k\u0101p\u014d Party",
+   "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+   "source": "Simon Willison",
+   "published": "2026-09-26 23:39 UTC",
+   "summary": "Tool: K\u0101k\u0101p\u014d Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking k\u0101k\u0101p\u014d breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel\u2026"
+  },
+  {
+   "title": "Engram is a sampler that turns broken AI hallucinations into music",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+   "source": "The Verge AI",
+   "published": "2026-09-27 20:46 UTC",
+   "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for\u2026"
+  },
+  {
+   "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge AI",
+   "published": "2026-09-27 17:21 UTC",
+   "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI\u2026"
+  },
+  {
+   "title": "OpenAI pauses training of its \u2018most capable models\u2019",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source": "The Verge AI",
+   "published": "2026-09-26 16:34 UTC",
+   "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [\u2026]"
+  },
+  {
+   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+   "source": "The Verge AI",
+   "published": "2026-09-26 14:00 UTC",
+   "summary": "Today, I\u2019m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet \u2014 and now it [\u2026]"
+  },
+  {
+   "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-27 20:34 UTC",
+   "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+  },
+  {
+   "title": "Can Muse overcome Meta\u2019s trust issues?",
+   "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-27 19:57 UTC",
+   "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+  },
+  {
+   "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-27 16:30 UTC",
+   "summary": "\"AI is the devil and I its maker.\""
+  },
+  {
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-27 01:30 UTC",
+   "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+  },
+  {
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-26 21:02 UTC",
+   "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+  },
+  {
+   "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "source": "TechCrunch AI",
+   "published": "2026-09-26 14:00 UTC",
+   "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+  },
+  {
+   "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+   "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-27 12:32 UTC",
+   "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human"
+  },
+  {
+   "title": "\ud83e\udde0 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+   "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+   "source": "Lenny's Newsletter",
+   "published": "2026-09-26 17:54 UTC",
+   "summary": "Community Wisdom 300"
+  },
+  {
+   "title": "OpenRouter: from Seed to Stripe \u2014 with OpenRouter\u2019s Alex Atallah & AMP\u2019s Anjney Midha",
+   "url": "https://www.latent.space/p/openrouter",
+   "source": "Latent Space",
+   "published": "2026-09-25 23:14 UTC",
+   "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B."
+  },
+  {
+   "title": "[AINews] The Future of Latent Space",
+   "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+   "source": "Latent Space",
+   "published": "2026-09-25 05:37 UTC",
+   "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!"
+  },
+  {
+   "title": "Runway\u2019s WorldPrompt and the Engineering of Real-Time Worlds",
+   "url": "https://www.latent.space/p/runway",
+   "source": "Latent Space",
+   "published": "2026-09-25 01:30 UTC",
+   "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time."
+  },
+  {
+   "title": "50 years of tech devices",
+   "url": "https://www.bensbites.com/p/50-years-of-tech-devices",
+   "source": "Ben's Bites",
+   "published": "2026-09-25 13:50 UTC",
+   "summary": "Ben's session #7"
+  }
+ ],
+ "failed_feeds": [],
+ "expect": {
+  "min_items": 6,
+  "max_items": 12
+ }
+}

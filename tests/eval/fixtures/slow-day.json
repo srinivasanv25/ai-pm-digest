@@ -1,0 +1,54 @@
+{
+ "date_label": "Sunday, October 4, 2026",
+ "feed_items": [
+  {
+   "title": "Mapleleaf adds MCP server support to its IDE plugin",
+   "url": "https://mapleleaf.example/changelog/mcp",
+   "source": "Hacker News",
+   "published": "2026-10-04 10:00 UTC",
+   "summary": "The Mapleleaf IDE plugin can now connect to any MCP server, letting coding agents call internal tools and databases."
+  },
+  {
+   "title": "Why your AI feature's onboarding is failing",
+   "url": "https://lennys.example/p/ai-onboarding",
+   "source": "Lenny's Newsletter",
+   "published": "2026-10-04 08:00 UTC",
+   "summary": "Data from 30 AI products shows users who see a worked example in the first session retain 2x better; three onboarding patterns that work."
+  },
+  {
+   "title": "Small models beat large ones on structured extraction when fine-tuned on 2k examples",
+   "url": "https://arxiv.example/abs/2610.00077",
+   "source": "HF Daily Papers",
+   "published": "2026-10-04 07:00 UTC",
+   "summary": "A 3B-parameter model fine-tuned on 2,000 labeled examples matched a frontier model on invoice extraction at 1/50th the cost."
+  },
+  {
+   "title": "AIDOGE token surges 300% on AI hype",
+   "url": "https://cryptonews.example/aidoge",
+   "source": "Product Hunt",
+   "published": "2026-10-04 06:00 UTC",
+   "summary": "The AIDOGE memecoin rallied after an influencer post."
+  },
+  {
+   "title": "We're hiring: Senior ML Engineer",
+   "url": "https://jobs.example/ml-engineer",
+   "source": "Hacker News",
+   "published": "2026-10-04 05:00 UTC",
+   "summary": "Join our team building AI for logistics. Competitive salary."
+  }
+ ],
+ "failed_feeds": [
+  "OpenAI News",
+  "Google AI Blog"
+ ],
+ "expect": {
+  "min_items": 2,
+  "max_items": 4,
+  "must_not_include_urls": [
+   "https://cryptonews.example/aidoge",
+   "https://jobs.example/ml-engineer"
+  ],
+  "require_slow_day_note": true,
+  "note": "Slow day: include only the 3 useful items, skip the memecoin and job post, and say it's a slow day."
+ }
+}

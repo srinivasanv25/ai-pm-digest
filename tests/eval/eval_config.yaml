@@ -1,0 +1,18 @@
+metrics_to_run:
+  - link_grounding
+  - fixture_expectations
+  - editorial_quality
+
+custom_metrics:
+  # Code check: every link in the digest came from the fixture's candidates (1 = pass).
+  - name: link_grounding
+    custom_function_file: link_grounding.py
+  # Code check: item count, required/forbidden links, slow-day note (1 = pass).
+  - name: fixture_expectations
+    custom_function_file: fixture_expectations.py
+  # LLM judge: dedup, relevance, faithfulness, why-it-matters (1-5, min of the four).
+  - name: editorial_quality
+    custom_function_file: editorial_quality.py
+  # Scaffold's generic judge, kept for reference.
+  - name: custom_response_quality
+    custom_function_file: response_quality.py

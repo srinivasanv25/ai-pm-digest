@@ -1,0 +1,5 @@
+{
+  "eval_cases": [
+    {"eval_case_id": "busy_day_holdout", "prompt": {"role": "user", "parts": [{"text": "Build the digest fixture:busy-day"}]}}
+  ]
+}
