@@ -1,4 +1,4 @@
-## 📬 AI PM Digest: Daily AI News for PM Builders
+## 📬 AI PM Digest Agent: Daily AI News for PM Builders
 
 An AI agent that reads the day's AI news for you and emails a short, opinionated digest every morning. It's built for product managers who build with AI.
 
